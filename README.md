@@ -1,2 +1,2 @@
 # TungstenPC
-At TungstenPC, a website where we specialize in custom-built, high-performance computers, crafted by professionals for gamers, creators, and professionals like you. Every rig is expertly assembled with premium components to ensure speed, power, and reliability, tailored to your needs. 
+This assessment aims to plan and control our hypothetical software development project TungstenPC (e-commerce) with supporting documentation. All project planning, documentation, and code must be developed, contained and managed in a GitHub repository. The focus is on familiarising the processes and tools for managing a software project. The main objective is to obtain and apply project management experience to develop websites.
