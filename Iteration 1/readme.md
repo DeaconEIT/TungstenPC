@@ -1,1 +1,1 @@
-
+Iteration 1 comprises the stakeholder registry, three detailed personas, and a persona impact report analyzing their influence. Additionally, it includes two group meeting reports, documenting our team's progress over two weeks. Lastly, a progress report provides a comprehensive overview of the work accomplished during this iteration.
