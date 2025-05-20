@@ -7,6 +7,6 @@ This assessment aims to plan and control our hypothetical software development p
 This iteration includes comprehensive documentation covering the User Acceptance Tests, Risk Registry, Progress Report, and Group Meeting Reports. The Risk Registry identifies potential risks associated with the project, evaluating the likelihood of their occurrence and their potential impact on project outcomes. The User Acceptance Tests provide a detailed assessment of the website’s functionality, highlighting both successful features and areas requiring improvement—critical insights for stakeholder review. Additionally, the progress report and group meeting reports document our achievements for this iteration, along with discussions, decisions, and plans formulated during team meetings.
 
 ## Members
-Deacon H. Watt
-Shawn M. Peipi
-Geronimo Gerard P. Yu IV
+- Deacon H. Watt
+- Shawn M. Peipi
+- Geronimo Gerard P. Yu IV
